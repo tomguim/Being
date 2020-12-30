@@ -1,6 +1,6 @@
 ---
-title: "To Those Who Come After Us"
-description: ""
+title: To Those Who Come After Us
+description: Bertolt Brecht
 slug: ""
 image: ""
 keywords: ""
