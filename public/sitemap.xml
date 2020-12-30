@@ -1,1 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://example.org/</loc><lastmod>2020-12-25T00:39:12+01:00</lastmod></url><url><loc>https://example.org/life/lalfailcookie/</loc><lastmod>2020-12-25T00:39:12+01:00</lastmod></url><url><loc>https://example.org/life/</loc><lastmod>2020-12-25T00:39:12+01:00</lastmod></url><url><loc>https://example.org/poetry/</loc><lastmod>2020-12-24T15:39:33+01:00</lastmod></url><url><loc>https://example.org/poetry/tothosewhocomeafterus/</loc><lastmod>2020-12-24T15:39:33+01:00</lastmod></url><url><loc>https://example.org/poetry/pearl/</loc><lastmod>2020-12-24T15:16:50+01:00</lastmod></url><url><loc>https://example.org/categories/</loc></url><url><loc>https://example.org/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://beingwith.netlify.app/</loc>
+    <lastmod>2020-12-25T00:39:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beingwith.netlify.app/life/lalfailcookie/</loc>
+    <lastmod>2020-12-25T00:39:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beingwith.netlify.app/life/</loc>
+    <lastmod>2020-12-25T00:39:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beingwith.netlify.app/poetry/</loc>
+    <lastmod>2020-12-24T15:39:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beingwith.netlify.app/poetry/tothosewhocomeafterus/</loc>
+    <lastmod>2020-12-24T15:39:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beingwith.netlify.app/poetry/pearl/</loc>
+    <lastmod>2020-12-24T15:16:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beingwith.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://beingwith.netlify.app/tags/</loc>
+  </url>
+  
+</urlset>

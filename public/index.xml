@@ -1,3 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Being with Tom</title><link>https://example.org/</link><description>Recent content on Being with Tom</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Dec 2020 00:39:12 +0100</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Lal tries to build a Cookie House</title><link>https://example.org/life/lalfailcookie/</link><pubDate>Fri, 25 Dec 2020 00:39:12 +0100</pubDate><guid>https://example.org/life/lalfailcookie/</guid><description/></item><item><title>To Those Who Come After Us</title><link>https://example.org/poetry/tothosewhocomeafterus/</link><pubDate>Thu, 24 Dec 2020 15:39:33 +0100</pubDate><guid>https://example.org/poetry/tothosewhocomeafterus/</guid><description>Truly, I live in dark times&amp;hellip; An artless word is foolish. A smooth forehead Points to insensitivity. He who laughs Has not yet received The terrible news.
-What times are these, in which A conversation about trees is almost a crime For in doing so we maintain our silence about so much wrongdoing! And he who walks quietly across the street, Passes out of the reach of his friends Who are in danger?</description></item><item><title>Pearl</title><link>https://example.org/poetry/pearl/</link><pubDate>Thu, 24 Dec 2020 15:16:50 +0100</pubDate><guid>https://example.org/poetry/pearl/</guid><description>From my vantage, I quietly listen to her beautiful music that she plays so intently. The sun is mirrored through her eyes with glowing gleaming intensity. They sparkle; flickering to a music of their own making.
-In her eyes I see everything that is human. In the white flames I see Art and Creativity, Hopes and Frustrations, Ideas both realized and fruitless, Like Kino’s pearl on the surface of her eyes I can see dreams form.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Being with Tom</title>
+    <link>https://beingwith.netlify.app/</link>
+    <description>Recent content on Being with Tom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Dec 2020 00:39:12 +0100</lastBuildDate><atom:link href="https://beingwith.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lal tries to build a Cookie House</title>
+      <link>https://beingwith.netlify.app/life/lalfailcookie/</link>
+      <pubDate>Fri, 25 Dec 2020 00:39:12 +0100</pubDate>
+      
+      <guid>https://beingwith.netlify.app/life/lalfailcookie/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>To Those Who Come After Us</title>
+      <link>https://beingwith.netlify.app/poetry/tothosewhocomeafterus/</link>
+      <pubDate>Thu, 24 Dec 2020 15:39:33 +0100</pubDate>
+      
+      <guid>https://beingwith.netlify.app/poetry/tothosewhocomeafterus/</guid>
+      <description>Truly, I live in dark times&amp;hellip; An artless word is foolish. A smooth forehead Points to insensitivity. He who laughs Has not yet received The terrible news.
+What times are these, in which A conversation about trees is almost a crime For in doing so we maintain our silence about so much wrongdoing! And he who walks quietly across the street, Passes out of the reach of his friends Who are in danger?</description>
+    </item>
+    
+    <item>
+      <title>Pearl</title>
+      <link>https://beingwith.netlify.app/poetry/pearl/</link>
+      <pubDate>Thu, 24 Dec 2020 15:16:50 +0100</pubDate>
+      
+      <guid>https://beingwith.netlify.app/poetry/pearl/</guid>
+      <description>From my vantage, I quietly listen to her beautiful music that she plays so intently. The sun is mirrored through her eyes with glowing gleaming intensity. They sparkle; flickering to a music of their own making.
+In her eyes I see everything that is human. In the white flames I see Art and Creativity, Hopes and Frustrations, Ideas both realized and fruitless, Like Kino’s pearl on the surface of her eyes I can see dreams form.</description>
+    </item>
+    
+  </channel>
+</rss>
