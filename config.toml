@@ -101,7 +101,7 @@ enableEmoji = true
 
     [[params.tiles.showcase]]
       title = "Art"
-      subtitle = "Art is always and everywhere the secret confession, and at the same time the immortal movement of its time. - M."
+      subtitle = "Art is always and everywhere both the secret confession and immortal movement of its time. - M."
       image = "mirrorfield.jpg"
       url = "art"
 
