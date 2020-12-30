@@ -3,7 +3,7 @@ baseURL = "https://beingwith.netlify.app/"
 languageCode = "en-us"
 title = "Being with Tom"
 theme = "forty"
-
+publishDir = "public"
 # Enter your disqus shortname to enable comments
 disqusShortname = "beingtogether"
 

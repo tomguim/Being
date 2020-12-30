@@ -1,7 +1,7 @@
 ---
 title: "Gesamtkunstwerk"
 date: 2020-12-24T14:18:15+01:00
-draft: true
+draft: false
 ---
 Le Gesamtkunstwerk s'explique probablement d'abord par l'illustration. Au lieu d'un tableau accroché au mur d'une maison, on peut penser que le Gesamtkunstwerk essaie d'intégrer le tableau au mur, au cadre, pour les faire former une unité. Faire en sorte que le mur forme une unité avec le sol et le plafond, faire en sorte que la structure de la maison s'accorde avec la peinture et les murs, etc. Si nous imaginons le tableau comme étant celui d'une forêt, nous pouvons imaginer le mur comme étant courbé et organique, ressemblant aux feuilles du tableau, ou les arcs soutenant les maisons comme se tordant et tournant comme les branches d'un arbre. On voit bien ici comment l'Art nouveau aura été fortement inspiré et même typiquement exemplifié par cette philosophie.
 
