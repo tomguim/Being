@@ -1,6 +1,6 @@
 ---
 title: Old Art Peices
-date: 2020-12-24T13:54:56+01:00
+date: 2020-10-20T13:54:56+01:00
 draft: false
 description: Stuff I have done in the past
 ---
@@ -20,10 +20,15 @@ Some Guy
 
 Reproduction of Matisse
 
+
 ![](/img/img_7210.jpg)
 
-My friend Kasra
+My friend Kasra!
 
+
+![](/img/maribel.JPG)
+
+Painting Maribel! (my moped, fathful friend to Kasra, Jaime and Cole as well)
 
 
 ![](/img/img_7200.jpg)
@@ -36,7 +41,9 @@ My friends Matthias and Lilian on mushrooms
 
 Portrait of my friend Karl from MSU while on Acid
 
+![](/img/selfacid.JPG)
 
+Self Portrait on Acid
 
 ![](/img/img_7198.jpg)
 
@@ -48,6 +55,8 @@ Followed a Bob Ross Tutorial
 
 Guy Debord's Society of the Spectacle
 
+![](/img/IMG_5419.JPG)
+Tribal Gravure! This little thing took weeks to make with my partner Agathe!
 
 
 ![](/img/img_7202.jpg)
@@ -58,7 +67,7 @@ The Workers at FOXCONN victims of capitalism, made while I was on my work shift
 
 ![](/img/img_7209.jpg)
 
-North Korean Farmer victim of the bureaucracy,  also made while I was on my work shift
+North Korean Farmer victim of the bureaucracy, also made while I was on my work shift
 
 
 
@@ -70,7 +79,7 @@ Old man
 
 ![](/img/IMG_0717.jpg)
 
-Portrait of the Captain of a sinking submarine
+Portrait of the Captain of a sinking german submarine
 
 
 
