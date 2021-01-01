@@ -107,7 +107,7 @@ enableEmoji = true
 
     [[params.tiles.showcase]]
       title = "Philosophy"
-      subtitle = "As long as I breath, I hope. As long I will breath, I will fight for the future, this radiant future, in which man, strong and beautiful, will becomes master of the the flowing stream of his history and will direct it towrads the unlimited horizens of beauty joy and happiness! - T."
+      subtitle = "As long as I breath, I hope. As long I will breath, I will fight for the future, this radiant future, in which man, strong and beautiful, will becomes master of the the flowing stream of his history and will direct it towards the unlimited horizens of beauty joy and happiness! - T."
       image = "revolution.jpg"
       url = "philosophy"
 

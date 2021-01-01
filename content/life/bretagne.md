@@ -42,7 +42,7 @@ With my friend Matthias, I took MMA classes. We got our assess beat each session
 ![](/img/IMG_6021.JPG)
 ![](/img/IMG_5794.JPG)
 
-These photos were actually taken on the navy ship (Noe) in the military base. We would sneek onto the base and into the boat and we would throw parties there until 4 in the morning! Here Matthias is the man of the party for having traversed a metal chain the length of a football elevated 3 stories above the ocean between a poll and the boat, with no clothes and in the wind. Mindblowing!
+These photos were actually taken on the navy ship (Noe) in the military base. We would sneak onto the base and into the boat and we would throw parties there until 4 in the morning! Here Matthias is the man of the party for having traversed a metal chain the length of a football field elevated 3 stories above the ocean between a poll and the boat, with no clothes and in the wind. Mindblowing!
 
 ![](/img/IMG_5800.JPG)
 
@@ -51,12 +51,8 @@ I met Lucile at a Raggae bar while out dancing with Virginie! She had an MSU swe
 She knew about the Franklin Cider Mill and even the Corn Maze at Bowers Farm!
 ![](/img/IMG_E6159.JPG)
 ![](/img/IMG_6173.JPG)
-My favorite memory of us is when we climbed the rocks and swam in the ocean to get to a secret cove! Such a great day! I look forward to seeing her again
-She is the one who introduced me to painting and we took Oil Painting Classes together.
-
-![](/img/img_7171.jpg)
-
-This was the first painting I made of her (she says I made her look like a neandrethal haha)
+One of my favorite memories of Bretagne is when we climbed the rocks and swam in the ocean to get to a secret cove! Such a great day! I look forward to seeing her again
+Lucile introduced me to painting and we took Oil Painting Classes together.
 
 In the art class this was my first painting.
 
